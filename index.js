@@ -9,4 +9,4 @@ app.use(express.json())
 app.use('/api', router)
 
 
-app.listen(PORT, () => console.log('хуй'))
+app.listen(PORT, () => console.log('server'))
